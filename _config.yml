@@ -1,7 +1,7 @@
 name: consulting case history
 favicon: null
-layout_spectrum: 0.7145121865905821
-typography_spectrum: 0.2507871235720813
+layout_spectrum: 0.74919
+typography_spectrum: 0.76909
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#3B28CC'
   brandStrength: 0.6692420253530145
   lightness: 0.005269533954560757
-  saturation: 0.3808309913147241
+  saturation: 0.25
   rhythmicContrast: 0.8871794214937836
 purpose: []
