@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T22:02:02.857Z'
-dateModified: '2016-01-06T22:01:56.267Z'
+datePublished: '2016-01-06T22:06:29.182Z'
+dateModified: '2016-01-06T22:06:22.224Z'
 title: 'Formazione CAD per PDM '
 author: []
 sourcePath: _posts/2016-01-06-formazione-cad-per-pdm.md
