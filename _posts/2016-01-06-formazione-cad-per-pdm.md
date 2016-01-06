@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T21:02:41.319Z'
-dateModified: '2016-01-06T21:02:33.709Z'
+datePublished: '2016-01-06T22:02:02.857Z'
+dateModified: '2016-01-06T22:01:56.267Z'
 title: 'Formazione CAD per PDM '
 author: []
 sourcePath: _posts/2016-01-06-formazione-cad-per-pdm.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b286981a-eba5-491b-831b-a00f377f364b.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f63268b8af474bfaa5bcf76cd5258ec047183617.png)
 
 # **Formazione CAD per PDM **
 
