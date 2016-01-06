@@ -4,7 +4,7 @@
         <description><![CDATA[La consulenza che risolve i problemi]]></description>
         <link>http://cch.strazzabosco.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 20:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 21:01:22 GMT</lastBuildDate>
         <atom:link href="http://cch.strazzabosco.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La consulenza  ]]></title>
@@ -12,6 +12,13 @@
             <link>http://cch.strazzabosco.com/la-consulenza/index.html</link>
             <guid isPermaLink="false">6c3b1126-d6aa-46e1-906a-e2d64f0a3c35</guid>
             <pubDate>Wed, 06 Jan 2016 20:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Formazione CAD per PDM ]]></title>
+            <description><![CDATA[<article><h1>Formazione CAD per PDM </h1><p>Piccola azienda che ha acquisito un sistema di gestione documentale compatibile con SolidEdge e AutoCAD LT ed aveva esigenza di un corso pratico sul campo di come su come disegnare e gestire al meglio i disegni. In due incontri si è analizzato il loro modo di disegnare in bidimensionale e trovato quali erano le procedure e le tecnologie migliori da utilizzare, di quanto già a loro disposizione. Il cliente ora utilizza il sistema autonomamente da più di un anno.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b286981a-eba5-491b-831b-a00f377f364b.png"></article>]]></description>
+            <link>http://cch.strazzabosco.com/formazione-cad-per-pdm/index.html</link>
+            <guid isPermaLink="false">e575cff5-d7fc-4cb8-b774-ddac57759a09</guid>
+            <pubDate>Wed, 06 Jan 2016 21:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
