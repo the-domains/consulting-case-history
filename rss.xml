@@ -4,7 +4,7 @@
         <description><![CDATA[La consulenza che risolve i problemi]]></description>
         <link>http://cch.strazzabosco.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 21:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 21:18:51 GMT</lastBuildDate>
         <atom:link href="http://cch.strazzabosco.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La consulenza  ]]></title>
@@ -12,6 +12,14 @@
             <link>http://cch.strazzabosco.com/la-consulenza/index.html</link>
             <guid isPermaLink="false">6c3b1126-d6aa-46e1-906a-e2d64f0a3c35</guid>
             <pubDate>Wed, 06 Jan 2016 20:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sharepoint che scoppia]]></title>
+            <description><![CDATA[<article><h1>Sharepoint che scoppia</h1><p>Azienda strutturata con infrastruttura Microsoft Sharepoint aveva grossi problemi di gestione SQL Server, tanto da bloccare la pur pregevole infrastruttura informatica, rallentando terribilmente il lavoro utente, bloccando i backup e con forte pericolo di perdita di dati. Dopo una congrua diagnosi ed un paio di aggiustamenti ora il database è operativo da più di un anno consumando meno del 30% delle risorse assegnate.
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e19b6b1006e3fa3acd42a2513a933a27f2169ea.jpg"></article>]]></description>
+            <link>http://cch.strazzabosco.com/sharepoint-che-scoppia/index.html</link>
+            <guid isPermaLink="false">bb36730a-1c7b-49ed-8f05-876763fd69d8</guid>
+            <pubDate>Wed, 06 Jan 2016 21:18:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
