@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T21:01:00.325Z'
-dateModified: '2016-01-06T21:00:46.447Z'
+datePublished: '2016-01-06T21:02:41.319Z'
+dateModified: '2016-01-06T21:02:33.709Z'
 title: 'Formazione CAD per PDM '
 author: []
+sourcePath: _posts/2016-01-06-formazione-cad-per-pdm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-formazione-cad-per-pdm.md
-published: true
-url: formazione-cad-per-pdm/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b286981a-eba5-491b-831b-a00f377f364b.png)
