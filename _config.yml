@@ -1,6 +1,6 @@
 name: consulting case history
 favicon: null
-layout_spectrum: 0.74919
+layout_spectrum: 1
 typography_spectrum: 0.76909
 title: La consulenza che risolve i problemi
 cta:
@@ -24,6 +24,6 @@ color:
     - '#3B28CC'
   brandStrength: 0.6692420253530145
   lightness: 0.005269533954560757
-  saturation: 0.25
+  saturation: 0.5
   rhythmicContrast: 0.8871794214937836
 purpose: []
