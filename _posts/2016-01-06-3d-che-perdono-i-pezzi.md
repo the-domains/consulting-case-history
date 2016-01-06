@@ -7,22 +7,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T21:48:29.367Z'
-dateModified: '2016-01-06T21:48:20.676Z'
+datePublished: '2016-01-06T22:16:21.332Z'
+dateModified: '2016-01-06T22:16:18.769Z'
 title: 3D che perdono i pezzi
 author: []
+sourcePath: _posts/2016-01-06-3d-che-perdono-i-pezzi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-3d-che-perdono-i-pezzi.md
-published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39701e3-bc58-4edf-a99e-cbd704bd2b25.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d14e56a4-6c19-4ba3-9c47-d1eb183d7a20.jpg)
 
 # **3D che perdono i pezzi**
 
