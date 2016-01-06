@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T20:19:51.569Z'
-dateModified: '2016-01-06T20:19:34.246Z'
-title: La consulenza
+datePublished: '2016-01-06T20:37:49.521Z'
+dateModified: '2016-01-06T20:37:30.535Z'
+title: "La consulenza \_"
 author: []
 authors: []
 publisher:
@@ -22,18 +22,19 @@ url: la-consulenza/index.html
 _type: Article
 
 ---
-# **La consulenza**
+# **La consulenza  **
 
-I servizi di consulenza sono stati pensati per risolvere lo specifico problema aziendale. Rispondono alle più semplici domande "Come risolvo tale problema ?" , "Quale strumento è migliore per le mie esigenze ?" , "Come posso migliorare il processo aziendale ?" ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/399306cc-f686-41c7-a4c8-a43897a8e929.png)
+I servizi di consulenza sono stati pensati per risolvere lo specifico problema aziendale. Rispondono alle più semplici domande "Come risolvo tale problema ?" , "Quale strumento è migliore per le mie esigenze ?" , "Come posso migliorare il processo aziendale ?"
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63e0ca7a-55d2-4d66-84e0-b51d3533748b.png)
 
 # **Come miglioro ? 
 **
 
 La consulenza di prevendita permette di avere una chiara idea dello stato e degli obbiettivi da raggiungere. Affidarsi ad un consulente terzo, non venditore di prodotti, permette di avere una visione schietta sul proprio processo aziendale. Questa consulenza è formata da due fasi, spesso inglobate in un unico servizio:
 
-** Consulenza di processo**: la fotografia di come lavora ora l'azienda. Nel caso l'azienda avesse già documentazione di ciò, questa fase può essere saltata e si può passare alla consulenza di innovazione.  
+**Consulenza di processo**: la fotografia di come lavora ora l'azienda. Nel caso l'azienda avesse già documentazione di ciò, questa fase può essere saltata e si può passare alla consulenza di innovazione. 
 
-**Consulenza di innovazione:** le indicazioni di miglioramento procedurale, strumentale e di risorse umane, che si individua come congruo al raggiungimento del risultato prefitto dal cliente. In questa fase si decide il "cosa fare per migliorare". 
+**Consulenza di innovazione**: le indicazioni di miglioramento procedurale, strumentale e di risorse umane, che si individua come congruo al raggiungimento del risultato prefitto dal cliente. In questa fase si decide il "cosa fare per migliorare". 
 
 # **Cosa acquisto ?**
 
