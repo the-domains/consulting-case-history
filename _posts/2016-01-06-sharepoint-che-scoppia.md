@@ -1,14 +1,16 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T21:18:50.642Z'
-dateModified: '2016-01-06T21:17:51.610Z'
-title: Sharepoint che scoppia
+datePublished: '2016-01-06T21:27:15.365Z'
+dateModified: '2016-01-06T21:27:04.339Z'
+title: |
+  Sharepoint che scoppia
 author: []
 authors: []
 publisher:
@@ -18,13 +20,13 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-01-06-sharepoint-che-scoppia.md
 published: true
-url: sharepoint-che-scoppia/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55439716-4e97-40bb-9ed1-7054f007dd9c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d164396-9f68-40f3-9b86-5926e88eccd6.jpg)
 
-# **Sharepoint che scoppia**
+# **Sharepoint che scoppia
+**
 
 Azienda strutturata con infrastruttura Microsoft Sharepoint aveva grossi problemi di gestione SQL Server, tanto da bloccare la pur pregevole infrastruttura informatica, rallentando terribilmente il lavoro utente, bloccando i backup e con forte pericolo di perdita di dati. Dopo una congrua diagnosi ed un paio di aggiustamenti ora il database è operativo da più di un anno consumando meno del 30% delle risorse assegnate.
 
