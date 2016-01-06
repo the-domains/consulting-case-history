@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T22:25:57.211Z'
-dateModified: '2016-01-06T22:25:51.728Z'
+datePublished: '2016-01-06T22:28:52.947Z'
+dateModified: '2016-01-06T22:28:49.121Z'
 title: 3D che perdono i pezzi
 author: []
 sourcePath: _posts/2016-01-06-3d-che-perdono-i-pezzi.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42196ab6-8a40-413d-a092-8f964a333d84.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/684b8be4-66ca-414d-8b91-bffe51656880.jpg)
 
 # **3D che perdono i pezzi**
 
