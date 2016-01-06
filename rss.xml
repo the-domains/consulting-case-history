@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[La consulenza che risolve i problemi]]></title>
         <description><![CDATA[La consulenza che risolve i problemi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://cch.strazzabosco.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 20:37:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 20:49:55 GMT</lastBuildDate>
+        <atom:link href="http://cch.strazzabosco.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La consulenza  ]]></title>
             <description><![CDATA[<article><h1>La consulenza  </h1><p>I servizi di consulenza sono stati pensati per risolvere lo specifico problema aziendale. Rispondono alle più semplici domande "Come risolvo tale problema ?" , "Quale strumento è migliore per le mie esigenze ?" , "Come posso migliorare il processo aziendale ?"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46984a8a722ff847a3adb00ad0b3344fb7512d6e.png"></article>]]></description>
-            <link>undefinedla-consulenza/index.html</link>
+            <link>http://cch.strazzabosco.com/la-consulenza/index.html</link>
             <guid isPermaLink="false">6c3b1126-d6aa-46e1-906a-e2d64f0a3c35</guid>
-            <pubDate>Wed, 06 Jan 2016 20:37:49 GMT</pubDate>
+            <pubDate>Wed, 06 Jan 2016 20:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
