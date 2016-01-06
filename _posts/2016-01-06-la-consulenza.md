@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-06T20:37:49.521Z'
-dateModified: '2016-01-06T20:37:30.535Z'
+datePublished: '2016-01-06T20:49:37.309Z'
+dateModified: '2016-01-06T20:49:22.172Z'
 title: "La consulenza \_"
 author: []
+sourcePath: _posts/2016-01-06-la-consulenza.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-la-consulenza.md
-published: true
 url: la-consulenza/index.html
 _type: Article
 
